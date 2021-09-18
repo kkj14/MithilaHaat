@@ -42,7 +42,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "घरghr"
 url = "/"
 weight = 1
 
@@ -91,7 +91,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/images10"
 logo_width = "100px"
 # Meta data
 description = "This is meta description"
@@ -121,19 +121,19 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = "hi"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "designed By [ITSLabs](https://itslabs.co.in/) & developed By [onlinekro](https://onlinekro.netlify.app/)"
 
 
 ################################### French language #####################################
 [Languages.fr]
-languageName = "Fr"
+languageName = "hi"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "designed By [ITSLabs](https://itslabs.co.in/) & developed By [onlinekro](https://onlinekro.netlify.app/)"
