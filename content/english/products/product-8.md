@@ -8,7 +8,7 @@ images:
   - "images/showcase/images20"
 
 # meta description
-description : "this is meta description"
+description : "imagelikhe"
 
 # product Price
 price: "30.00"
@@ -24,4 +24,4 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+imagelikhe
