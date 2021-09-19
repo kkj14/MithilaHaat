@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Buy a Smart Watch."
+title: "aapko ghr ke liye febrik pentiNgs kyo leni cahiye."
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-2.png"
 description : "this is a meta description"
