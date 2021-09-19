@@ -1,18 +1,18 @@
 ---
-title: "yha likhe"
+title: "Apple Watch"
 date: 2019-10-17T11:22:16+06:00
-images:
-  - "images/showcase/images1"
-  - "images/showcase/images2"
-  - "images/showcase/images3"
-  - "images/showcase/images4"
+images: 
+  - "images/showcase/showcase-1.png"
+  - "images/showcase/showcase-2.png"
+  - "images/showcase/showcase-3.png"
+  - "images/showcase/showcase-4.png"
 
 # meta description
-description : "pliiz yha imez ke bare me likhe"
+description : "this is meta description"
 
 # product Price
-price: "uchiT muly"
-discount_price: "5%"
+price: "30.00"
+discount_price: "25.00"
 
 # product variation
 colors : ["black","white","gray"]
@@ -24,4 +24,4 @@ button_link: "#"
 draft: false
 ---
 
-yh painting bHuT sunDAr h.
+Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
