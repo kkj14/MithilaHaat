@@ -2,6 +2,10 @@
 baseurl = "http://examplesite.com/"
 title = "मिथिलाहाट miThilahaat"
 theme = "vex-hugo"
+
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
 # post excert
 summarylength = "20"
 # google analytics
@@ -126,8 +130,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
+copyright = "Designed By [onlinekro](https://onlinekro.netlify.app) & developed By [itslabs](https://itslabs.co.in)"
 
 ################################### French language #####################################
 [Languages.fr]
@@ -136,4 +139,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [onlinekro](https://onlinekro.netlify.app) & developed By [itslabs](https://itslabs.co.in)"
