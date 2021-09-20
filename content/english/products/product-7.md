@@ -1,5 +1,5 @@
 ---
-title: "OnePlus Watch"
+title: "तीसी / अलसी"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-7.png"
@@ -8,11 +8,15 @@ images:
   - "images/showcase/showcase-4.png"
 
 # meta description
-description : "this is meta description"
+description : "अलसी का नियमति सेवन करने से आप पाचन शक्ति को बढ़ा सकते हैं...
+हृदय रोग कम करने में मददगार अलगी कई गुणों से भरपूर है. ...
+ब्लड कोलेस्ट्रॉल कंट्रोल करने में हेल्पफुल अलसी के बीज से बेड कोलेस्ट्रॉल में मददगार होते है. ...
+पाचन शक्ति बेहतर होती है अलसी का नियमति सेवन करने से आप पाचन शक्ति को बढ़ा सकते हैं. ...
+त्वचा के लिए फायदेमंद"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "307.00"
+discount_price: "257.00"
 
 # product variation
 colors : ["black","white","gray"]

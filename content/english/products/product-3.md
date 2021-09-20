@@ -1,18 +1,18 @@
 ---
-title: "Xiaomi Watch"
+title: "पान"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-3.png"
   - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
+  - "images/showcase/showcase-6.png"
   - "images/showcase/showcase-4.png"
 
 # meta description
-description : "this is meta description"
+description : "बेटल लीफ (Betel Leaf) को हिंदी में 'पान का पत्ता' और तेलुगू में 'तामलपक्कू' के रूप में भी जाना जाता है। पान का पत्ता एक दिल का आकार का पत्ता है जिसमें बेमिसाल औषधीय गुण होते हैं। ... पान के पत्ते पर तंबाकू, सुपारी, चूना आदि लगा कर खाने से कई प्रकार स्वास्थ्य संबंधी बीमारी हो सकती है।"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "303.00"
+discount_price: "253.00"
 
 # product variation
 colors : ["black","white","gray"]

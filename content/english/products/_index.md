@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "सभी मिथिला के सामान"
+description : "सभी मिथिला के सामान"
 draft: false
 ---
 

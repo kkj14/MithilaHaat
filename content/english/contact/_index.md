@@ -6,7 +6,7 @@ office:
   title : "Central Office"
   mobile : "0124857985320"
   email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  location : "India"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour

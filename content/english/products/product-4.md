@@ -1,18 +1,18 @@
 ---
-title: "Motorola Watch"
+title: "मखाना"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-4.png"
   - "images/showcase/showcase-2.png"
   - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-1.png"
+  - "images/showcase/showcase-6.png"
 
 # meta description
-description : "this is meta description"
+description : "मखाना जिसे लोटस सीड, फोक्स नट, प्रिकली लिली आदि के नाम से जाना जाता है. देश में 80 फीसदी मखाना की खेती बिहार के मिथिलांचल क्षेत्र में होती है. मखाने को तालाब, झील जैसे शांत पानी पर उगाया जाता है. पानी में खेती होने की वजह से इसमें कोई केमिकल फर्टीलाइजर का उपयोग नहीं होता है, इसलिए यह पूरी तरह से ऑर्गेनिक फूड है."
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "304.00"
+discount_price: "254.00"
 
 # product variation
 colors : ["black","white","gray"]

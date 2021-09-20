@@ -103,7 +103,7 @@ author = "vimAl"
 # currency
 currency = "rs"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "#" # contact form works with https://itsLab.co.in
 
 # Preloader
 [params.preloader]

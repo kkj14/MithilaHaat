@@ -1,18 +1,25 @@
 ---
-title: "Galaxy Watch"
+title: "बांस"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
+  - "images/showcase/showcase-6.png"
   - "images/showcase/showcase-3.png"
   - "images/showcase/showcase-4.png"
 
 # meta description
-description : "this is meta description"
+description : "बांस के चावल के हैं ये 8 फायदे
+मधुमेह से बचाव 
+हड्डियों के लिए
+कोलेस्ट्रॉल कम करने में 
+ब्लड प्रेशर सुधारने में बैम्बू राइस 
+मूड रखता है ठीक 
+दाँतों को बनाता है मजबूत
+"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "302.00"
+discount_price: "252.00"
 
 # product variation
 colors : ["black","white","gray"]
